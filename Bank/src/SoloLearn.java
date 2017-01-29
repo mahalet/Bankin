@@ -18,6 +18,7 @@ public class SoloLearn {
 //    lName = myvar.nextLine();
 //    age = myvar.nextInt();
 //    weight = myvar.nextDouble();
+    System.out.println(" chase banke");
     System.out.println(" Id is "+id);
     System.out.println(" first name: " +fName);
     System.out.println(" last name: "+ lName);
