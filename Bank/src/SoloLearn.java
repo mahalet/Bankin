@@ -21,7 +21,7 @@ public class SoloLearn {
     System.out.println(" Id is "+id);
     System.out.println(" first name: " +fName);
     System.out.println(" last name: "+ lName);
-    System.out.println(" age: "+age);
+   // System.out.println(" age: "+age);
     System.out.println(" weight: "+weight);
     System.out.println(" saving is "+savingAcc);
     System.out.println(" checking is "+checkingAcc);
